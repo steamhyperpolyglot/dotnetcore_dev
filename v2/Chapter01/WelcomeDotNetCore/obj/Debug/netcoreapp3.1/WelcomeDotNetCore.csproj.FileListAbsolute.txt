@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp3.1\WelcomeDotNetCore.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp3.1\WelcomeDotNetCore.pdb
