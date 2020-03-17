@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\bin\Debug\netcoreapp3.1\NumbersBases.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\bin\Debug\netcoreapp3.1\NumbersBases.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\bin\Debug\netcoreapp3.1\NumbersBases.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\bin\Debug\netcoreapp3.1\NumbersBases.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\bin\Debug\netcoreapp3.1\NumbersBases.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\bin\Debug\netcoreapp3.1\NumbersBases.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\obj\Debug\netcoreapp3.1\NumbersBases.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\obj\Debug\netcoreapp3.1\NumbersBases.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\obj\Debug\netcoreapp3.1\NumbersBases.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\obj\Debug\netcoreapp3.1\NumbersBases.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\NumbersBases\obj\Debug\netcoreapp3.1\NumbersBases.pdb

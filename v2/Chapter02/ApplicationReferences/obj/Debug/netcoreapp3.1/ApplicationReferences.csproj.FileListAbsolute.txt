@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\bin\Debug\netcoreapp3.1\ApplicationReferences.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\bin\Debug\netcoreapp3.1\ApplicationReferences.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\bin\Debug\netcoreapp3.1\ApplicationReferences.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\bin\Debug\netcoreapp3.1\ApplicationReferences.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\bin\Debug\netcoreapp3.1\ApplicationReferences.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\bin\Debug\netcoreapp3.1\ApplicationReferences.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\obj\Debug\netcoreapp3.1\ApplicationReferences.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\obj\Debug\netcoreapp3.1\ApplicationReferences.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\obj\Debug\netcoreapp3.1\ApplicationReferences.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\obj\Debug\netcoreapp3.1\ApplicationReferences.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ApplicationReferences\obj\Debug\netcoreapp3.1\ApplicationReferences.pdb
