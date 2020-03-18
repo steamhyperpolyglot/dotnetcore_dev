@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\obj\Debug\netcoreapp3.1\UserInput.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb

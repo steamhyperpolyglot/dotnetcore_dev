@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb

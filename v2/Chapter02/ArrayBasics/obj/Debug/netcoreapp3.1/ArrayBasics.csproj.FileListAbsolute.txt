@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\bin\Debug\netcoreapp3.1\ArrayBasics.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\bin\Debug\netcoreapp3.1\ArrayBasics.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\bin\Debug\netcoreapp3.1\ArrayBasics.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\bin\Debug\netcoreapp3.1\ArrayBasics.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\bin\Debug\netcoreapp3.1\ArrayBasics.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\bin\Debug\netcoreapp3.1\ArrayBasics.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\obj\Debug\netcoreapp3.1\ArrayBasics.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\obj\Debug\netcoreapp3.1\ArrayBasics.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\obj\Debug\netcoreapp3.1\ArrayBasics.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\obj\Debug\netcoreapp3.1\ArrayBasics.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ArrayBasics\obj\Debug\netcoreapp3.1\ArrayBasics.pdb

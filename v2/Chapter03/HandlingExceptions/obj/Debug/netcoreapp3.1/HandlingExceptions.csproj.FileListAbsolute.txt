@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.pdb

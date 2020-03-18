@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.pdb

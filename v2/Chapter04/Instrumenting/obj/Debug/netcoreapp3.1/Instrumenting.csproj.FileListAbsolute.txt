@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\bin\Debug\netcoreapp3.1\Instrumenting.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter04\Instrumenting\obj\Debug\netcoreapp3.1\Instrumenting.pdb
