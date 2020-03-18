@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\bin\Debug\netcoreapp3.1\ParsingValues.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\bin\Debug\netcoreapp3.1\ParsingValues.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\bin\Debug\netcoreapp3.1\ParsingValues.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\bin\Debug\netcoreapp3.1\ParsingValues.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\bin\Debug\netcoreapp3.1\ParsingValues.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\bin\Debug\netcoreapp3.1\ParsingValues.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\obj\Debug\netcoreapp3.1\ParsingValues.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\obj\Debug\netcoreapp3.1\ParsingValues.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\obj\Debug\netcoreapp3.1\ParsingValues.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\obj\Debug\netcoreapp3.1\ParsingValues.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ParsingValues\obj\Debug\netcoreapp3.1\ParsingValues.pdb

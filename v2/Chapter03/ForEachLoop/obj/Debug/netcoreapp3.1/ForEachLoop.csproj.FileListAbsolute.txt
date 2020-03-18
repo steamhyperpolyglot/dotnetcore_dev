@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.pdb

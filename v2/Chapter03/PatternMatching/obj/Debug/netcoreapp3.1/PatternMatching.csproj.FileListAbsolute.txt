@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\bin\Debug\netcoreapp3.1\PatternMatching.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\PatternMatching\obj\Debug\netcoreapp3.1\PatternMatching.pdb

@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\bin\Debug\netcoreapp3.1\CastingNumbers.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\bin\Debug\netcoreapp3.1\CastingNumbers.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\bin\Debug\netcoreapp3.1\CastingNumbers.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\bin\Debug\netcoreapp3.1\CastingNumbers.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\bin\Debug\netcoreapp3.1\CastingNumbers.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\bin\Debug\netcoreapp3.1\CastingNumbers.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\obj\Debug\netcoreapp3.1\CastingNumbers.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\obj\Debug\netcoreapp3.1\CastingNumbers.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\obj\Debug\netcoreapp3.1\CastingNumbers.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\obj\Debug\netcoreapp3.1\CastingNumbers.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\CastingNumbers\obj\Debug\netcoreapp3.1\CastingNumbers.pdb

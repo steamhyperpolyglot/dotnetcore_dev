@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\bin\Debug\netcoreapp3.1\SystemConvert.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\bin\Debug\netcoreapp3.1\SystemConvert.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\bin\Debug\netcoreapp3.1\SystemConvert.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\bin\Debug\netcoreapp3.1\SystemConvert.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\bin\Debug\netcoreapp3.1\SystemConvert.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\bin\Debug\netcoreapp3.1\SystemConvert.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\obj\Debug\netcoreapp3.1\SystemConvert.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\obj\Debug\netcoreapp3.1\SystemConvert.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\obj\Debug\netcoreapp3.1\SystemConvert.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\obj\Debug\netcoreapp3.1\SystemConvert.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SystemConvert\obj\Debug\netcoreapp3.1\SystemConvert.pdb

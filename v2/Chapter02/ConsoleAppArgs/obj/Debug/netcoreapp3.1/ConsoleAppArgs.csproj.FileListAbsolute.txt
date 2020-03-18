@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\bin\Debug\netcoreapp3.1\ConsoleAppArgs.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\bin\Debug\netcoreapp3.1\ConsoleAppArgs.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\bin\Debug\netcoreapp3.1\ConsoleAppArgs.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\bin\Debug\netcoreapp3.1\ConsoleAppArgs.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\bin\Debug\netcoreapp3.1\ConsoleAppArgs.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\bin\Debug\netcoreapp3.1\ConsoleAppArgs.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\obj\Debug\netcoreapp3.1\ConsoleAppArgs.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\obj\Debug\netcoreapp3.1\ConsoleAppArgs.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\obj\Debug\netcoreapp3.1\ConsoleAppArgs.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\obj\Debug\netcoreapp3.1\ConsoleAppArgs.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter02\ConsoleAppArgs\obj\Debug\netcoreapp3.1\ConsoleAppArgs.pdb

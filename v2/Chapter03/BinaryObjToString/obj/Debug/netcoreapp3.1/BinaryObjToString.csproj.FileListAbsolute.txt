@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\bin\Debug\netcoreapp3.1\BinaryObjToString.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\bin\Debug\netcoreapp3.1\BinaryObjToString.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\bin\Debug\netcoreapp3.1\BinaryObjToString.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\bin\Debug\netcoreapp3.1\BinaryObjToString.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\bin\Debug\netcoreapp3.1\BinaryObjToString.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\bin\Debug\netcoreapp3.1\BinaryObjToString.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\obj\Debug\netcoreapp3.1\BinaryObjToString.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\obj\Debug\netcoreapp3.1\BinaryObjToString.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\obj\Debug\netcoreapp3.1\BinaryObjToString.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\obj\Debug\netcoreapp3.1\BinaryObjToString.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\BinaryObjToString\obj\Debug\netcoreapp3.1\BinaryObjToString.pdb

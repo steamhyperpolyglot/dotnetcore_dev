@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\bin\Debug\netcoreapp3.1\WhileLoop.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\WhileLoop\obj\Debug\netcoreapp3.1\WhileLoop.pdb

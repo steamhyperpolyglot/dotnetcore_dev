@@ -1,0 +1,11 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\bin\Debug\netcoreapp3.1\SwitchWriteFile.exe
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\bin\Debug\netcoreapp3.1\SwitchWriteFile.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\bin\Debug\netcoreapp3.1\SwitchWriteFile.runtimeconfig.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\bin\Debug\netcoreapp3.1\SwitchWriteFile.runtimeconfig.dev.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\bin\Debug\netcoreapp3.1\SwitchWriteFile.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\bin\Debug\netcoreapp3.1\SwitchWriteFile.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\obj\Debug\netcoreapp3.1\SwitchWriteFile.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\obj\Debug\netcoreapp3.1\SwitchWriteFile.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\obj\Debug\netcoreapp3.1\SwitchWriteFile.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\obj\Debug\netcoreapp3.1\SwitchWriteFile.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter03\SwitchWriteFile\obj\Debug\netcoreapp3.1\SwitchWriteFile.pdb
