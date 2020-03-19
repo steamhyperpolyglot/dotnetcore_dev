@@ -1,0 +1,16 @@
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PeopleEx\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PeopleEx\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PeopleEx\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PeopleEx\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojAssemblyReference.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PeopleEx\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PeopleEx\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PeopleEx\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+D:\Research_and_Development\dotnetcore_dev\v2\Chapter05\PeopleEx\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb
