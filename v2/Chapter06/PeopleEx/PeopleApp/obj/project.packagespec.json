@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Research_and_Development\\dotnetcore_dev\\v2\\Chapter06\\PeopleEx\\PeopleApp\\PeopleApp.csproj",
+    "projectName": "PeopleApp",
+    "projectPath": "D:\\Research_and_Development\\dotnetcore_dev\\v2\\Chapter06\\PeopleEx\\PeopleApp\\PeopleApp.csproj",
+    "outputPath": "D:\\Research_and_Development\\dotnetcore_dev\\v2\\Chapter06\\PeopleEx\\PeopleApp\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "D:\\Research_and_Development\\dotnetcore_dev\\v2\\Chapter06\\PeopleEx\\PacktLibrary\\PacktLibrary.csproj": {
+            "projectPath": "D:\\Research_and_Development\\dotnetcore_dev\\v2\\Chapter06\\PeopleEx\\PacktLibrary\\PacktLibrary.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+    }
+  }
+}
