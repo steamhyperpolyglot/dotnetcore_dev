@@ -40,6 +40,24 @@ namespace PacktLibrary
 			WriteLine ( $"{Name} was born on {DateOfBirth:D}" );
 		}
 
+		public void TimeTravel(DateTime when)
+		{
+			if (when <= DateOfBirth)
+			{
+				throw new PersonException("If you travel back in time to a date " + 
+					"earlier than your own birth then the universe will explode!");
+			}
+			else {
+				WriteLine($"Welcome to {when:yyyy}!");
+			}
+		}
+
+		// override methods
+		public override string ToString()
+		{
+			return $"{Name} is a {base.ToString()}";
+		}
+
 		// methods to "multiply"
 		public static Person Procreate ( Person p1, Person p2 )
 		{
