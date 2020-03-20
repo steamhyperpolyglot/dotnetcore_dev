@@ -1,0 +1,14 @@
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\bin\Debug\netcoreapp3.1\Assemblies.exe
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\bin\Debug\netcoreapp3.1\Assemblies.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\bin\Debug\netcoreapp3.1\Assemblies.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\bin\Debug\netcoreapp3.1\Assemblies.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\bin\Debug\netcoreapp3.1\Assemblies.dll
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\bin\Debug\netcoreapp3.1\Assemblies.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\bin\Debug\netcoreapp3.1\DialectSoftware.Collections.Matrix.dll
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.csproj.CopyComplete
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.dll
+D:\RnD\dotnetcore_dev\v2\Chapter07\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.pdb
