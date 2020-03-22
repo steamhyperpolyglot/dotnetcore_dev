@@ -1,0 +1,11 @@
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.exe
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.dll
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\bin\Debug\netcoreapp3.1\WorkingWithNetworkResources.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.dll
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithNetworkResources\obj\Debug\netcoreapp3.1\WorkingWithNetworkResources.pdb

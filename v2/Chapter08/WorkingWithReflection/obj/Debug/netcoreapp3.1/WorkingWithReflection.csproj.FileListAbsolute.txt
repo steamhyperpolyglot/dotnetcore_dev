@@ -1,0 +1,11 @@
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.exe
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.dll
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\bin\Debug\netcoreapp3.1\WorkingWithReflection.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.dll
+D:\RnD\dotnetcore_dev\v2\Chapter08\WorkingWithReflection\obj\Debug\netcoreapp3.1\WorkingWithReflection.pdb
