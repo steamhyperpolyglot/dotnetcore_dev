@@ -1,6 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c02d3f9-f060-4a21-bd17-69c1c20a67c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/.idea/.idea.WorkingWithDictionaries/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/.idea/.idea.WorkingWithDictionaries/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/.idea/.idea.WorkingWithDictionaries/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/bin/Debug/netcoreapp3.1/WorkingWithDictionaries.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/bin/Debug/netcoreapp3.1/WorkingWithDictionaries.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/bin/Debug/netcoreapp3.1/WorkingWithDictionaries.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/bin/Debug/netcoreapp3.1/WorkingWithDictionaries.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/bin/Debug/netcoreapp3.1/WorkingWithDictionaries.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/bin/Debug/netcoreapp3.1/WorkingWithDictionaries.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/Debug/netcoreapp3.1/WorkingWithDictionaries.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/Debug/netcoreapp3.1/WorkingWithDictionaries.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/Debug/netcoreapp3.1/WorkingWithDictionaries.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/Debug/netcoreapp3.1/WorkingWithDictionaries.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/Debug/netcoreapp3.1/WorkingWithDictionaries.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/Debug/netcoreapp3.1/WorkingWithDictionaries.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/Debug/netcoreapp3.1/WorkingWithDictionaries.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/Debug/netcoreapp3.1/WorkingWithDictionaries.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/WorkingWithDictionaries.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/WorkingWithDictionaries.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/WorkingWithDictionaries.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/WorkingWithDictionaries.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithDictionaries/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/.idea/.idea.WorkingWithLists/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/bin/Debug/netcoreapp3.1/WorkingWithLists.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/bin/Debug/netcoreapp3.1/WorkingWithLists.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/bin/Debug/netcoreapp3.1/WorkingWithLists.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/bin/Debug/netcoreapp3.1/WorkingWithLists.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/bin/Debug/netcoreapp3.1/WorkingWithLists.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/bin/Debug/netcoreapp3.1/WorkingWithLists.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/Debug/netcoreapp3.1/WorkingWithLists.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/Debug/netcoreapp3.1/WorkingWithLists.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/Debug/netcoreapp3.1/WorkingWithLists.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/Debug/netcoreapp3.1/WorkingWithLists.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/Debug/netcoreapp3.1/WorkingWithLists.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/WorkingWithLists.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/WorkingWithLists.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/WorkingWithLists.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/WorkingWithLists.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithLists/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/.idea/.idea.WorkingWithNetworkResources/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/.idea/.idea.WorkingWithNetworkResources/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/.idea/.idea.WorkingWithNetworkResources/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/.idea/.idea.WorkingWithNetworkResources/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/.idea/.idea.WorkingWithNetworkResources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/.idea/.idea.WorkingWithNetworkResources/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/.idea/.idea.WorkingWithNetworkResources/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/WorkingWithNetworkResources.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/WorkingWithNetworkResources.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/bin/Debug/netcoreapp3.1/WorkingWithNetworkResources.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/bin/Debug/netcoreapp3.1/WorkingWithNetworkResources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/bin/Debug/netcoreapp3.1/WorkingWithNetworkResources.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/bin/Debug/netcoreapp3.1/WorkingWithNetworkResources.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/bin/Debug/netcoreapp3.1/WorkingWithNetworkResources.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/bin/Debug/netcoreapp3.1/WorkingWithNetworkResources.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/Debug/netcoreapp3.1/WorkingWithNetworkResources.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/Debug/netcoreapp3.1/WorkingWithNetworkResources.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/Debug/netcoreapp3.1/WorkingWithNetworkResources.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/Debug/netcoreapp3.1/WorkingWithNetworkResources.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/Debug/netcoreapp3.1/WorkingWithNetworkResources.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/Debug/netcoreapp3.1/WorkingWithNetworkResources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/Debug/netcoreapp3.1/WorkingWithNetworkResources.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/Debug/netcoreapp3.1/WorkingWithNetworkResources.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/WorkingWithNetworkResources.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/WorkingWithNetworkResources.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/WorkingWithNetworkResources.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/WorkingWithNetworkResources.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNetworkResources/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNumbers/.idea/.idea.WorkingWithNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNumbers/.idea/.idea.WorkingWithNumbers/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithNumbers/.idea/.idea.WorkingWithNumbers/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkingWithReflection/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkingWithReflection/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkingWithReflection/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkingWithReflection/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkingWithReflection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WorkingWithReflection/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoderAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkingWithReflection.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkingWithReflection.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/WorkingWithReflection.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/WorkingWithReflection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/WorkingWithReflection.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/WorkingWithReflection.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/WorkingWithReflection.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/WorkingWithReflection.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/WorkingWithReflection.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/WorkingWithReflection.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/WorkingWithReflection.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/WorkingWithReflection.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/WorkingWithReflection.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/WorkingWithReflection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/WorkingWithReflection.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/WorkingWithReflection.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/WorkingWithReflection.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/WorkingWithReflection.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/WorkingWithReflection.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/WorkingWithReflection.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/.idea/.idea.WorkingWithText/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/bin/Debug/netcoreapp3.1/WorkingWithText.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/bin/Debug/netcoreapp3.1/WorkingWithText.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/bin/Debug/netcoreapp3.1/WorkingWithText.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/bin/Debug/netcoreapp3.1/WorkingWithText.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/bin/Debug/netcoreapp3.1/WorkingWithText.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/bin/Debug/netcoreapp3.1/WorkingWithText.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/obj/Debug/netcoreapp3.1/WorkingWithText.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/obj/Debug/netcoreapp3.1/WorkingWithText.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/obj/Debug/netcoreapp3.1/WorkingWithText.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/obj/Debug/netcoreapp3.1/WorkingWithText.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/obj/Debug/netcoreapp3.1/WorkingWithText.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/obj/Debug/netcoreapp3.1/WorkingWithText.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkingWithText/obj/Debug/netcoreapp3.1/WorkingWithText.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoderAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CoderAttribute.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZTmP9d3BqiAoD47GWyX9drLvYL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WorkingWithReflection" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WorkingWithReflection.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c02d3f9-f060-4a21-bd17-69c1c20a67c1" name="Default Changelist" comment="" />
+      <created>1584871431368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584871431368</updated>
+      <workItem from="1584871432622" duration="1628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1843" height="224" key="GridCell.Tab.0.bottom" timestamp="1584882110109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1843" height="224" key="GridCell.Tab.0.bottom/1920.8.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1584882110109" />
+    <state width="1843" height="224" key="GridCell.Tab.0.center" timestamp="1584882110109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1843" height="224" key="GridCell.Tab.0.center/1920.8.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1584882110109" />
+    <state width="1843" height="224" key="GridCell.Tab.0.left" timestamp="1584882110109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1843" height="224" key="GridCell.Tab.0.left/1920.8.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1584882110109" />
+    <state width="1843" height="224" key="GridCell.Tab.0.right" timestamp="1584882110109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1843" height="224" key="GridCell.Tab.0.right/1920.8.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1584882110109" />
   </component>
 </project>
