@@ -1,0 +1,11 @@
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\bin\Debug\netcoreapp3.1\WorkWithCompression.exe
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\bin\Debug\netcoreapp3.1\WorkWithCompression.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\bin\Debug\netcoreapp3.1\WorkWithCompression.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\bin\Debug\netcoreapp3.1\WorkWithCompression.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\bin\Debug\netcoreapp3.1\WorkWithCompression.dll
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\bin\Debug\netcoreapp3.1\WorkWithCompression.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\obj\Debug\netcoreapp3.1\WorkWithCompression.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\obj\Debug\netcoreapp3.1\WorkWithCompression.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\obj\Debug\netcoreapp3.1\WorkWithCompression.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\obj\Debug\netcoreapp3.1\WorkWithCompression.dll
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithCompression\obj\Debug\netcoreapp3.1\WorkWithCompression.pdb

@@ -1,0 +1,11 @@
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\bin\Debug\netcoreapp3.1\WorkWithXml.exe
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\bin\Debug\netcoreapp3.1\WorkWithXml.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\bin\Debug\netcoreapp3.1\WorkWithXml.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\bin\Debug\netcoreapp3.1\WorkWithXml.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\bin\Debug\netcoreapp3.1\WorkWithXml.dll
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\bin\Debug\netcoreapp3.1\WorkWithXml.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\obj\Debug\netcoreapp3.1\WorkWithXml.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\obj\Debug\netcoreapp3.1\WorkWithXml.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\obj\Debug\netcoreapp3.1\WorkWithXml.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\obj\Debug\netcoreapp3.1\WorkWithXml.dll
+D:\RnD\dotnetcore_dev\v2\Chapter09\WorkWithXml\obj\Debug\netcoreapp3.1\WorkWithXml.pdb
