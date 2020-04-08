@@ -1,0 +1,14 @@
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.exe
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\RandomizingApp.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.csproj.CopyComplete
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\RandomizingApp\obj\Debug\netcoreapp3.1\RandomizingApp.pdb

@@ -1,0 +1,3 @@
+D:\RnD\dotnetcore_dev\v2\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp3.1\WorkingWithEFCore.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp3.1\WorkingWithEFCore.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter11\WorkingWithEFCore\obj\Debug\netcoreapp3.1\WorkingWithEFCore.AssemblyInfo.cs

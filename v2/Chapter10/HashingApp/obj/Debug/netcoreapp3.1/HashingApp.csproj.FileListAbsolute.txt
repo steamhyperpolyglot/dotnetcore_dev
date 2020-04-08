@@ -1,0 +1,14 @@
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.exe
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\HashingApp.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.csproj.CopyComplete
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\HashingApp\obj\Debug\netcoreapp3.1\HashingApp.pdb

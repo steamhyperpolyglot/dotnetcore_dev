@@ -1,0 +1,14 @@
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.exe
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csproj.CopyComplete
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.dll
+D:\RnD\dotnetcore_dev\v2\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.pdb
