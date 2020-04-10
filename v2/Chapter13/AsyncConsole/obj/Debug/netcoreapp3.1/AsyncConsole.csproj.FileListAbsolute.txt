@@ -2,3 +2,12 @@ D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncCon
 D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.csproj.CoreCompileInputs.cache
 D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.AssemblyInfoInputs.cache
 D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.exe
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\bin\Debug\netcoreapp3.1\AsyncConsole.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.genruntimeconfig.cache

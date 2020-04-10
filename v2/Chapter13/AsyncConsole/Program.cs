@@ -1,12 +1,18 @@
 ﻿using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+using static System.Console;
 
 namespace AsyncConsole
 {
 	class Program
 	{
-		static void Main ( string [] args )
+		static async Task Main ( string [] args )
 		{
-			Console.WriteLine ( "Hello World!" );
+			var client = new HttpClient ();
+			HttpResponseMessage response = await
+			client.GetAsync ( "http://www.apple.com" );
+			WriteLine($"Apple's home page has {response.Content.Headers.ContentLength:N0} bytes.");
 		}
 	}
 }
