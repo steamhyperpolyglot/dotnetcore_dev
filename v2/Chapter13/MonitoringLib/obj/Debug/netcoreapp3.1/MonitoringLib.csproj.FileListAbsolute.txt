@@ -1,0 +1,9 @@
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\bin\Debug\netcoreapp3.1\MonitoringLib.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\bin\Debug\netcoreapp3.1\MonitoringLib.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\bin\Debug\netcoreapp3.1\MonitoringLib.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\MonitoringLib\obj\Debug\netcoreapp3.1\MonitoringLib.pdb

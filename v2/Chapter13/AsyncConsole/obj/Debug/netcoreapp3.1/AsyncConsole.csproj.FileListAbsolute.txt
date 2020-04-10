@@ -1,0 +1,4 @@
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\AsyncConsole\obj\Debug\netcoreapp3.1\AsyncConsole.AssemblyInfo.cs

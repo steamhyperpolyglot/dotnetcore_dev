@@ -1,0 +1,13 @@
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.exe
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\bin\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\NestedAndChildTasks\obj\Debug\netcoreapp3.1\NestedAndChildTasks.genruntimeconfig.cache

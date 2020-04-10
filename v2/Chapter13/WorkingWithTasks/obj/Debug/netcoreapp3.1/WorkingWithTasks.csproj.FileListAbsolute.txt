@@ -1,0 +1,13 @@
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.exe
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\bin\Debug\netcoreapp3.1\WorkingWithTasks.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\WorkingWithTasks\obj\Debug\netcoreapp3.1\WorkingWithTasks.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\bin\Debug\netcoreapp3.1\RecordingApp.exe
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\bin\Debug\netcoreapp3.1\RecordingApp.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\bin\Debug\netcoreapp3.1\RecordingApp.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\bin\Debug\netcoreapp3.1\RecordingApp.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\bin\Debug\netcoreapp3.1\RecordingApp.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\bin\Debug\netcoreapp3.1\RecordingApp.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\bin\Debug\netcoreapp3.1\MonitoringLib.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\bin\Debug\netcoreapp3.1\MonitoringLib.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\obj\Debug\netcoreapp3.1\RecordingApp.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\obj\Debug\netcoreapp3.1\RecordingApp.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\obj\Debug\netcoreapp3.1\RecordingApp.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\obj\Debug\netcoreapp3.1\RecordingApp.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\obj\Debug\netcoreapp3.1\RecordingApp.csproj.CopyComplete
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\obj\Debug\netcoreapp3.1\RecordingApp.dll
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\obj\Debug\netcoreapp3.1\RecordingApp.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter13\RecordingApp\obj\Debug\netcoreapp3.1\RecordingApp.genruntimeconfig.cache
