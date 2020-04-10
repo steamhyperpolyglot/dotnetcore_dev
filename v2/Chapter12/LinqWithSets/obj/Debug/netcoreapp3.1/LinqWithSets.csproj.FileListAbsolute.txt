@@ -1,0 +1,13 @@
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.exe
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.deps.json
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.runtimeconfig.json
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.runtimeconfig.dev.json
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.dll
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\bin\Debug\netcoreapp3.1\LinqWithSets.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.dll
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.pdb
+D:\RnD\dotnetcore_dev\v2\Chapter12\LinqWithSets\obj\Debug\netcoreapp3.1\LinqWithSets.genruntimeconfig.cache
