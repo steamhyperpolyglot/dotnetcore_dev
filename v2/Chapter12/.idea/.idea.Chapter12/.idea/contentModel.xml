@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\steam.hyperpolyglot\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\steam.hyperpolyglot\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\steam.hyperpolyglot\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\steam.hyperpolyglot\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Chapter12.-1715358381.00" t="ExcludeRecursive" />
+    <e p="D:\RnD\dotnetcore_dev\v2\Chapter12" t="IncludeFlat">
+      <e p="Chapter12.sln" t="IncludeFlat" />
+      <e p="LINQingInParallel" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LINQingInParallel.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LINQingInParallel.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="LinqWithEFCore" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Category.cs" t="Include" />
+        <e p="LinqWithEFCore.csproj" t="IncludeRecursive" />
+        <e p="MyLINQExtensions.cs" t="Include" />
+        <e p="Northwind.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LinqWithEFCore.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Product.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="LinqWithObjects" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LinqWithObjects.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LinqWithObjects.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="LinqWithSets" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LinqWithSets.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LinqWithSets.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
