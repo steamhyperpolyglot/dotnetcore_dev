@@ -18,3 +18,17 @@ D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\staticwebass
 D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.dll
 D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.pdb
 D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.genruntimeconfig.cache
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.RazorAssemblyInfo.cache
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.RazorAssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.TagHelpers.input.cache
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.TagHelpers.output.cache
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.RazorCoreGenerate.cache
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\Razor\Pages\index.cshtml.g.cs
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.RazorTargetAssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindWeb.Views.dll
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\bin\Debug\netcoreapp3.1\NorthwindWeb.Views.pdb
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.Views.pdb
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\NorthwindWeb.csproj.CopyComplete
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+D:\RnD\dotnetcore_dev\v2\Part3\NorthwindWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Suppliers.cshtml.g.cs
