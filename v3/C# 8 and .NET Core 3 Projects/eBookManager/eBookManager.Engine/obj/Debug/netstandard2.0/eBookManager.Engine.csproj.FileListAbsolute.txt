@@ -1,0 +1,9 @@
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\bin\Debug\netstandard2.0\eBookManager.Engine.deps.json
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\bin\Debug\netstandard2.0\eBookManager.Engine.dll
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\bin\Debug\netstandard2.0\eBookManager.Engine.pdb
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\obj\Debug\netstandard2.0\eBookManager.Engine.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\obj\Debug\netstandard2.0\eBookManager.Engine.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\obj\Debug\netstandard2.0\eBookManager.Engine.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\obj\Debug\netstandard2.0\eBookManager.Engine.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\obj\Debug\netstandard2.0\eBookManager.Engine.dll
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Engine\obj\Debug\netstandard2.0\eBookManager.Engine.pdb

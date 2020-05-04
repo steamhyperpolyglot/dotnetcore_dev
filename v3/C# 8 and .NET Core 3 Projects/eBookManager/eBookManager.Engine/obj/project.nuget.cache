@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ty290Dsi9mguT20MBnyEDQxbA55bwRVHWTKTj+YNQKbojkmtrgTXGFlRsV4Q5JmDNCtLh6+8mv32BJxISM2koQ==",
+  "success": true,
+  "projectFilePath": "D:\\RnD\\dotnetcore_dev\\v3\\C# 8 and .NET Core 3 Projects\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

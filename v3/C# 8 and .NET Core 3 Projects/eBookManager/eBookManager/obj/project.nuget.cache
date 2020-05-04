@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y9GNmHrcGGTEQh7U7cSgziDIhOZ93b9wIl59dOerAlyw+R8PiaJcS47KlXV+QodaEOLRf9ASTCcNUMMMeAtVBQ==",
+  "success": true,
+  "projectFilePath": "D:\\RnD\\dotnetcore_dev\\v3\\C# 8 and .NET Core 3 Projects\\eBookManager\\eBookManager\\eBookManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steam.hyperpolyglot\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
