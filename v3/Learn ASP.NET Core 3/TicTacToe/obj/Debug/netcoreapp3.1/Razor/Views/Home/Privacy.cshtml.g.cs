@@ -19,8 +19,15 @@ using TicTacToe;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "D:\RnD\dotnetcore_dev\v3\Learn ASP.NET Core 3\TicTacToe\Views\_ViewImports.cshtml"
+using TicTacToe.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"54453a34bf797bc248dd6b26b9cf60e9a7122915", @"/Views/Home/Privacy.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"70f3f16cad8d696f4534c5ab588f9e812cea2721", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c4c59d6140b4c0c32ad744d0695fde0721952c4e", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Privacy : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<object>
     {
         #pragma warning disable 1998

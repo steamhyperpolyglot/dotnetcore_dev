@@ -6,3 +6,7 @@ D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager
 D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.AssemblyInfoInputs.cache
 D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.AssemblyInfo.cs
 D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.csproj.CopyComplete
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Helper\bin\Debug\netstandard2.0\eBookManager.Helper.pdb
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.dll
+D:\RnD\dotnetcore_dev\v3\C# 8 and .NET Core 3 Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.pdb

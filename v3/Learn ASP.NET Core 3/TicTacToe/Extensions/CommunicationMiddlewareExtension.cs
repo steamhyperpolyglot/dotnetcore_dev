@@ -1,17 +1,18 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Builder;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
-using TicTacToe.Middleware;
+using TicTacToe.Middlewares;
 
 namespace TicTacToe.Extensions
 {
-	public static class CommunicationMiddlewareExtension
-	{
-		public static IApplicationBuilder UseCommunicationMiddleware(this IApplicationBuilder app)
-		{
-			return app.UseMiddleware<CommunicationMiddleware>();
-		}
-	}
+    public static class CommunicationMiddlewareExtension
+    {
+        public static IApplicationBuilder
+           UseCommunicationMiddleware(this IApplicationBuilder app)
+        {
+            return app.UseMiddleware<CommunicationMiddleware>();
+        }
+    }
 }
