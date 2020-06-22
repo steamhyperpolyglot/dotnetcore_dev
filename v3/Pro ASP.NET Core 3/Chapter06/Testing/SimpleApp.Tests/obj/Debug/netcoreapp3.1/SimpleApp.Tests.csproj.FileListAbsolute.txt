@@ -102,3 +102,5 @@ D:\RnD\dotnetcore_dev\v3\Pro ASP.NET Core 3\Chapter06\Testing\SimpleApp.Tests\ob
 D:\RnD\dotnetcore_dev\v3\Pro ASP.NET Core 3\Chapter06\Testing\SimpleApp.Tests\obj\Debug\netcoreapp3.1\SimpleApp.Tests.dll
 D:\RnD\dotnetcore_dev\v3\Pro ASP.NET Core 3\Chapter06\Testing\SimpleApp.Tests\obj\Debug\netcoreapp3.1\SimpleApp.Tests.pdb
 D:\RnD\dotnetcore_dev\v3\Pro ASP.NET Core 3\Chapter06\Testing\SimpleApp.Tests\obj\Debug\netcoreapp3.1\SimpleApp.Tests.genruntimeconfig.cache
+D:\RnD\dotnetcore_dev\v3\Pro ASP.NET Core 3\Chapter06\Testing\SimpleApp.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\RnD\dotnetcore_dev\v3\Pro ASP.NET Core 3\Chapter06\Testing\SimpleApp.Tests\bin\Debug\netcoreapp3.1\Moq.dll

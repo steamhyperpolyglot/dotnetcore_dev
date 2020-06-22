@@ -1,6 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1525bc7e_002Df7af_002D4b70_002D9049_002D262f4d2b2d10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProductTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::03F29ECF-C206-49C8-9EF4-BD3F6ACA2F49::.NETCoreApp,Version=v3.1::SimpleApp.Tests.ProductTests&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::03F29ECF-C206-49C8-9EF4-BD3F6ACA2F49::.NETCoreApp,Version=v3.1::SimpleApp.Tests.ProductTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;03F29ECF-C206-49C8-9EF4-BD3F6ACA2F49/f:HomeControllerTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

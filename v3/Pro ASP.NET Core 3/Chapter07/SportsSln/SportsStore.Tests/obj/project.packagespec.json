@@ -19,7 +19,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "D:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter07\\SportsSln\\SportsStore\\SportsStore.csproj": {
+            "projectPath": "D:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter07\\SportsSln\\SportsStore\\SportsStore.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -34,6 +38,10 @@
         "Microsoft.NET.Test.Sdk": {
           "target": "Package",
           "version": "[16.5.0, )"
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.14.3, )"
         },
         "coverlet.collector": {
           "target": "Package",
@@ -59,6 +67,9 @@
       "assetTargetFallback": true,
       "warn": true,
       "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
         "Microsoft.NETCore.App": {
           "privateAssets": "all"
         }
