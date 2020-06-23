@@ -1,4 +1,17 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f691f84_002D452c_002D4c96_002Da621_002D0d6ed04ba878/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PageLinkTagHelperTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::19C9B1B0-9C40-4F88-9F92-FFBF9EFBB050::.NETCoreApp,Version=v3.1::SportsStore.Tests.PageLinkTagHelperTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;19C9B1B0-9C40-4F88-9F92-FFBF9EFBB050/f:ProductControllerTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a38ac716_002D15e7_002D4f75_002Dbd85_002D431a271c981a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PageLinkTagHelperTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::19C9B1B0-9C40-4F88-9F92-FFBF9EFBB050::.NETCoreApp,Version=v3.1::SportsStore.Tests.PageLinkTagHelperTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b82efcb5_002Dc39a_002D471a_002Da198_002Dddab35d6f4e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from ProductControllerTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;ProjectFile&gt;19C9B1B0-9C40-4F88-9F92-FFBF9EFBB050/f:ProductControllerTests.cs&lt;/ProjectFile&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

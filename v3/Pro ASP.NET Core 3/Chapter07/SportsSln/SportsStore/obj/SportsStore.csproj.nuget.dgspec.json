@@ -52,6 +52,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "Microsoft.Web.LibraryManager.Cli": {
+              "target": "Package",
+              "version": "[2.1.76, )"
             }
           },
           "imports": [
