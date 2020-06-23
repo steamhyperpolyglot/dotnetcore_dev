@@ -175,3 +175,8 @@ D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\
 D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.dll
 D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.pdb
 D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\obj\Debug\netcoreapp3.1\RazorPagesMovie.genruntimeconfig.cache
+D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
+D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+D:\RnD\dotnetcore_dev\v3\Microsoft_Docs\Razor_Pages_Get_Started\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
