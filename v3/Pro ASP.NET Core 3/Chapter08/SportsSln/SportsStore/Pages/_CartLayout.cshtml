@@ -1,18 +1,16 @@
-﻿@model TModel
-
-@{
-	Layout = null;
-}
-
-<!DOCTYPE html>
-
-<html>
+﻿<!DOCTYPE html>
+<html lang="en">
 <head>
-	<title>title</title>
+	<meta name="viewport" content="width=device-width" />
+	<title>SportsStore</title>
+	<link href="/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
 </head>
 <body>
-<div>
-	  
-</div>
+	<div class="bg-dark text-white p-2">
+		<span class="navbar-brand ml-2">SPORTS STORE</span>
+	</div>
+	<div class="m-1 p-2">
+		@RenderBody()
+	</div>
 </body>
 </html>

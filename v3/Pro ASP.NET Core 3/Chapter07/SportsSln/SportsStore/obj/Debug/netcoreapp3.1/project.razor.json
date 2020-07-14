@@ -14509,6 +14509,62 @@
               "Common.PropertyName": "PageAction"
             },
             "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-classes-enabled",
+            "TypeName": "System.Boolean",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "PageClassesEnabled"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-class",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "PageClass"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-class-normal",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "PageClassNormal"
+            },
+            "BoundAttributeParameters": []
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-class-selected",
+            "TypeName": "System.String",
+            "IsEnum": false,
+            "IndexerNamePrefix": null,
+            "IndexerTypeName": null,
+            "Documentation": null,
+            "Diagnostics": [],
+            "Metadata": {
+              "Common.PropertyName": "PageClassSelected"
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -20582,6 +20638,11 @@
   },
   "RootNamespace": "SportsStore",
   "Documents": [
+    {
+      "FilePath": "d:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter07\\SportsSln\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+      "TargetPath": "Views\\Shared\\ProductSummary.cshtml",
+      "FileKind": "mvc"
+    },
     {
       "FilePath": "d:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter07\\SportsSln\\SportsStore\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
