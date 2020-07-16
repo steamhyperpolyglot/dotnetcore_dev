@@ -20688,6 +20688,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter08\\SportsSln\\SportsStore\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter08\\SportsSln\\SportsStore\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -20698,8 +20703,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter08\\SportsSln\\SportsStore\\Pages\\_CartLayout.cshtml",
+      "TargetPath": "Pages\\_CartLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter08\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter08\\SportsSln\\SportsStore\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\RnD\\dotnetcore_dev\\v3\\Pro ASP.NET Core 3\\Chapter08\\SportsSln\\SportsStore\\Pages\\Cart.cshtml",
+      "TargetPath": "Pages\\Cart.cshtml",
       "FileKind": "mvc"
     },
     {
