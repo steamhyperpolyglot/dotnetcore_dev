@@ -1,0 +1,9 @@
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\bin\Debug\netstandard2.1\BlazorClient02.Shared.deps.json
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\bin\Debug\netstandard2.1\BlazorClient02.Shared.dll
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\bin\Debug\netstandard2.1\BlazorClient02.Shared.pdb
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\obj\Debug\netstandard2.1\BlazorClient02.Shared.csprojAssemblyReference.cache
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\obj\Debug\netstandard2.1\BlazorClient02.Shared.AssemblyInfoInputs.cache
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\obj\Debug\netstandard2.1\BlazorClient02.Shared.AssemblyInfo.cs
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\obj\Debug\netstandard2.1\BlazorClient02.Shared.csproj.CoreCompileInputs.cache
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\obj\Debug\netstandard2.1\BlazorClient02.Shared.dll
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\BlazorClient02\Shared\obj\Debug\netstandard2.1\BlazorClient02.Shared.pdb

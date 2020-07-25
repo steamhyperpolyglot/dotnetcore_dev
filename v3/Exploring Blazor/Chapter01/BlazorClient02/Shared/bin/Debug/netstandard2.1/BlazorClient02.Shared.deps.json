@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "BlazorClient02.Shared/1.0.0": {
+        "runtime": {
+          "BlazorClient02.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorClient02.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

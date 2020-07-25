@@ -178,7 +178,6 @@ D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\De
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\SampleBlazorClientApp.RazorTargetAssemblyInfo.cache
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\SampleBlazorClientApp.csproj.CopyComplete
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\3CcbNQBpY3SlpZ6V02XGXKmhq4s9CjrxrKgngykWrzg=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -230,13 +229,11 @@ D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\De
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\-_UcMVKFdaS0bQ881JgA2Zvs6668Lqba1sdo4GVdj0M=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\gaHPwIyvDq-SGQjxIwFusE_LqwO7yO7jMZq0pf5_ZuA=.hash
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\compressed\_framework\_bin\SampleBlazorClientApp.dll.gz
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -357,3 +354,6 @@ D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\De
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\staticwebassets\SampleBlazorClientApp.StaticWebAssets.xml
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\SampleBlazorClientApp.dll
 D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\SampleBlazorClientApp.pdb
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\qt_maeiGo1O64xNZBQAOmC8reqwxsz0U9qqrUk3hNng=.hash
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\JiGHHlzOeYjYEsyQhKxgteY7hHdYSxmt6NIPXM5UhNs=.hash
+D:\RnD\dotnetcore_dev\v3\Exploring Blazor\Chapter01\SampleBlazorClientApp\obj\Debug\netstandard2.1\integrity\-_uLTL3Q4HuEGTfknTdnyB8tO6lw3IySdI46zgqAsU0=.hash

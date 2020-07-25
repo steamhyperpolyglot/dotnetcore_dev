@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94bf2b8a-87b2-4a46-b832-109a67ba5d43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/.idea.SampleBlazorClientApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Authorization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Forms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.WebAssembly.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Components.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.AspNetCore.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Binder.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.FileExtensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.FileProviders.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.FileProviders.Physical.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.FileSystemGlobbing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Options.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.Extensions.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.JSInterop.WebAssembly.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Microsoft.JSInterop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/SampleBlazorClientApp.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/SampleBlazorClientApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/SampleBlazorClientApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.ComponentModel.Annotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.Net.Http.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Logging.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Options.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Microsoft.JSInterop.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/Mono.Security.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/SampleBlazorClientApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/SampleBlazorClientApp.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/SampleBlazorClientApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/SampleBlazorClientApp.pdb.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Buffers.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Annotations.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Composition.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.Composition.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Core.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.DataSetExtensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.DataSetExtensions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Data.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Drawing.Common.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.FileSystem.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.IO.Compression.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Memory.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.Json.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Net.Http.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.Vectors.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Numerics.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Runtime.Serialization.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ServiceModel.Internals.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.ServiceModel.Internals.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Encodings.Web.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Text.Json.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Transactions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Transactions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.Linq.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.Xml.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/System.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Bindings.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Net.WebSockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/WebAssembly.Net.WebSockets.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/mscorlib.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/_bin/netstandard.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.boot.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/blazor.webassembly.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.3.2.0.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.timezones.dat.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netstandard2.1/wwwroot/_framework/wasm/dotnet.wasm.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/Razor/App.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/Razor/Pages/Counter.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/Razor/Pages/FetchData.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/Razor/Pages/Index.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/Razor/Shared/MainLayout.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/Razor/Shared/NavMenu.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/RazorDeclaration/SampleBlazorClientApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/RazorDeclaration/SampleBlazorClientApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/SampleBlazorClientApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/blazor.boot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/boot.json.input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked.output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.AspNetCore.Components.Forms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.AspNetCore.Components.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.AspNetCore.Components.WebAssembly.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.AspNetCore.Components.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.Configuration.FileExtensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.Configuration.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.Configuration.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.FileProviders.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.FileProviders.Physical.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.FileSystemGlobbing.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.Options.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.Extensions.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.JSInterop.WebAssembly.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Microsoft.JSInterop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/SampleBlazorClientApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/SampleBlazorClientApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Buffers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.ComponentModel.Annotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.ComponentModel.Composition.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.ComponentModel.DataAnnotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Data.DataSetExtensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Data.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.IO.Compression.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Net.Http.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Net.Http.WebAssemblyHttpHandler.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Numerics.Vectors.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Runtime.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.ServiceModel.Internals.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Text.Encodings.Web.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Text.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Transactions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Xml.Linq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/WebAssembly.Bindings.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/WebAssembly.Net.WebSockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/blazor/unlinked/netstandard.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Forms.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.Web.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.WebAssembly.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.AspNetCore.Components.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Bcl.AsyncInterfaces.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Abstractions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.FileExtensions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.Json.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Configuration.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.DependencyInjection.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Abstractions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileProviders.Physical.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.FileSystemGlobbing.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.Abstractions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Logging.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Options.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.Extensions.Primitives.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.WebAssembly.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Microsoft.JSInterop.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/Mono.Security.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/SampleBlazorClientApp.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/SampleBlazorClientApp.pdb.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Annotations.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.Composition.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ComponentModel.DataAnnotations.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Core.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.DataSetExtensions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Data.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Drawing.Common.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.FileSystem.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.IO.Compression.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Memory.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.WebAssemblyHttpHandler.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.Vectors.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Numerics.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.CompilerServices.Unsafe.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Runtime.Serialization.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.ServiceModel.Internals.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Encodings.Web.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Text.Json.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Threading.Tasks.Extensions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Transactions.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.Linq.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Xml.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Bindings.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/WebAssembly.Net.WebSockets.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/mscorlib.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/_bin/netstandard.dll.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/blazor.boot.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/blazor.webassembly.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.3.2.0.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.timezones.dat.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/_framework/wasm/dotnet.wasm.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/brotli.manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/compressed/gzip.manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/-_uLTL3Q4HuEGTfknTdnyB8tO6lw3IySdI46zgqAsU0=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/JiGHHlzOeYjYEsyQhKxgteY7hHdYSxmt6NIPXM5UhNs=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/qt_maeiGo1O64xNZBQAOmC8reqwxsz0U9qqrUk3hNng=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/integrity/y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/staticwebassets/SampleBlazorClientApp.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/netstandard2.1/staticwebassets/SampleBlazorClientApp.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/SampleBlazorClientApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/SampleBlazorClientApp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/SampleBlazorClientApp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/.idea/.idea.SampleBlazorServerApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/.idea/.idea.SampleBlazorServerApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/.idea/.idea.SampleBlazorServerApp/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/.idea/.idea.SampleBlazorServerApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/.idea/.idea.SampleBlazorServerApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/.idea/.idea.SampleBlazorServerApp/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/SampleBlazorServerApp.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/SampleBlazorServerApp.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/SampleBlazorServerApp.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/SampleBlazorServerApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/SampleBlazorServerApp.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/SampleBlazorServerApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/SampleBlazorServerApp.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/SampleBlazorServerApp.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/Pages/Counter.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/Pages/FetchData.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/Pages/Index.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/Pages/_Host.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/Razor/_Imports.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Counter.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/FetchData.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Index.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/SampleBlazorServerApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/SampleBlazorServerApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/RazorDeclaration/_Imports.razor.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.RazorComponent.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/SampleBlazorServerApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/staticwebassets/SampleBlazorServerApp.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/Debug/netcoreapp3.1/staticwebassets/SampleBlazorServerApp.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/SampleBlazorServerApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/SampleBlazorServerApp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/SampleBlazorServerApp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SampleBlazorServerApp/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Pro ASP.NET Core 3/Chapter10/SportsSln/.idea/.idea.SportsSln/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Pro ASP.NET Core 3/Chapter10/SportsSln/SportsStore/Pages/Admin/_Imports.razor" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/App.razor" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/App.razor" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fAIc4gxaiIaBJLUU6MM5BLMFzL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.SampleBlazorClientApp">
+    <configuration name="SampleBlazorClientApp" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SampleBlazorClientApp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETStandard,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="SampleBlazorClientApp" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="SampleBlazorClientApp: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SampleBlazorClientApp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETStandard,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94bf2b8a-87b2-4a46-b832-109a67ba5d43" name="Default Changelist" comment="" />
+      <created>1595654546793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595654546793</updated>
+      <workItem from="1595654551594" duration="361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom" timestamp="1595654912776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1595654912776" />
+    <state width="1867" height="269" key="GridCell.Tab.0.center" timestamp="1595654912776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.center/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1595654912776" />
+    <state width="1867" height="269" key="GridCell.Tab.0.left" timestamp="1595654912775">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.left/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1595654912775" />
+    <state width="1867" height="269" key="GridCell.Tab.0.right" timestamp="1595654912776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.right/-2560.-168.2560.1440/0.0.1920.1080@0.0.1920.1080" timestamp="1595654912776" />
+  </component>
+</project>
