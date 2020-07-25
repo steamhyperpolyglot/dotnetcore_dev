@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/.idea.SampleBlazorClientApp.iml" filepath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/.idea/.idea.SampleBlazorClientApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/riderModule.iml" filepath="$PROJECT_DIR$/.idea/.idea.SampleBlazorClientApp/riderModule.iml" />
+    </modules>
+  </component>
+</project>
