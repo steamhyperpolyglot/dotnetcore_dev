@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\steam.hyperpolyglot\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\steam.hyperpolyglot\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
